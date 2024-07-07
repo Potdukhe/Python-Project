@@ -1,2 +1,2 @@
-# Python-Project
-Survival Duration Calculator Program code using python
+# Python-Project [Survival Duration Calculator Program code using python]
+

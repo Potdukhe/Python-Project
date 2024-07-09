@@ -6,3 +6,4 @@
 5. Nineteen line of the code define that it ask for user input and int() function use to convert the input in integer.
 6. Twenty line of code define the execulation of age calculation by using class and age variable.
 7. Twenty one line of code define it is ask for input that is unit.
+8. Twenty two line of code define print a massage and exection of calculator.calculate_duration(unit) method in first curly bracket and another curly bracket gives the unit which is enter by user and F string which allow to execute the expression inside both curly brackets
